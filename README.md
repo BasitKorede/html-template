@@ -1,8 +1,6 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Hello There
 
-# Hello World
-
-> A basic "Hello world" page that illustrate the use of tools and best practices for future Microverse projects.
+> A basic "Hello There" page that illustrate the use of tools and best practices for future projects.
 
 Additional description about the project and its features.
 
@@ -31,7 +29,7 @@ To get a local copy up and running follow these simple example steps.
 - Clone the project
 
 ```bash
-git clone https://github.com/rotimiazeez/hello-world.git
+git clone https://github.com/basitkorede/html-template.git
 
 ```
 
@@ -61,7 +59,7 @@ npx hint --telemetry=off .
 
 ## 👤 Author
 
-- Github: [@rotimiazeez](https://github.com/rotimiazeez)
+- Github: [@basitkorede](https://github.com/basitkorede)
 - Twitter: [@harzeyzh](https://twitter.com/Harzeyzh)
 - Linkedin: [@azeezrotimi019](https://www.linkedin.com/in/azeezrotimi019/)
 

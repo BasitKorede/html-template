@@ -1,7 +1,7 @@
 {
-  "name": "hello-world",
+  "name": "html-template",
   "version": "1.0.0",
-  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "description": "An html template",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
@@ -16,12 +16,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rotimiazeez/hello-world.git"
+    "url": "git+https://github.com/basitkorede/html-template.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rotimiazeez/hello-world/issues"
+    "url": "https://github.com/basitkorede/html-template/issues"
   },
-  "homepage": "https://github.com/rotimiazeez/hello-world#readme"
+  "homepage": "https://github.com/basitkorede/html-template#readme"
 }
